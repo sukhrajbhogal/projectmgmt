@@ -1,2 +1,2 @@
-# projectmgmt
-A project management app 
+# Projectmgmt
+A project management app built with GraphQL, Express, MongoDB, React, and Apollo.
